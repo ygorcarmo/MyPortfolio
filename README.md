@@ -1,11 +1,17 @@
-# basic-page-template
+# Personal Portfolio
 
-Template for starting a standalone html page
+This is a weather forecast website which will save the cities searched in the local storage and it will display the current day and the next five days forecast!
 
-Comes with
+### Technologies Used
+     - HTML
+     - CSS
+     - Javascript
+### Website Screenshot
 
-- HTML boilerplate `index.html` file with resources linked.
-- CSS `reset.css` and `styles.css` files.
-- JS `script.js` file.
-- Favicon set up with a default.
-- 3 free-to-use images.
+
+
+### Website URL
+
+
+### License & copyright
+Licensed under the [MIT License](LICENSE).
