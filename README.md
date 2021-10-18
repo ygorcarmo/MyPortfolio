@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is my portfolio which contains my details, projects and resume. The contact form populates a DynamoDB table with your details, I will get back to the message as soon as I can!
+This is my portfolio which contains my details, projects and [resume](https://drive.google.com/file/d/1CitDK-8E_ulrNT1PjyPvhIODpPC0jxp8/view). The contact form populates a DynamoDB table with your details, I will get back to the message as soon as I can!
 
 ### Technologies Used
      - HTML
