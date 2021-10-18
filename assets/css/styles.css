@@ -305,7 +305,7 @@ img{
 }
 .work__img{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
-  border-radius: .5rem;
+  /* border-radius: .5rem; */
   overflow: hidden;
 }
 .work__img img{
@@ -422,11 +422,11 @@ img{
     width: 300px;
     height: 400px;
   }
-  .work__container{
+  /* .work__container{
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2,1fr);
     column-gap: 2rem;
-  }
+  } */
   .contact__form{
     width: 360px;
   }
